@@ -41,6 +41,12 @@
       "AwayTeamScore": "01",
       "RowTitle": "E",
       "HomeTeamScore": "05"
+    },
+    {
+      "id": 6,
+      "AwayTeamScore": "01",
+      "RowTitle": "X",
+      "HomeTeamScore": "05"
     }
   ],
   "button1": ""
