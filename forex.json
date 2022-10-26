@@ -1,3 +1,7 @@
+https://github.com/qfaraz/Forex_Data/blob/main/forex.json
+
+https://dev.bvion.org/gh/qfaraz/Forex_Data/blob/main/forex.json
+
 {
   "header": {
     "AT_NAME": "ABC",
@@ -36,6 +40,13 @@
       "RowTitle": "E",
       "HomeTeamScore": "05"
     }
+{
+      "id": 5,
+      "AwayTeamScore": "01",
+      "RowTitle": "E",
+      "HomeTeamScore": "05"
+    }
   ],
   "button1": ""
 }
+
