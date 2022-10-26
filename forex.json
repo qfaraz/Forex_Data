@@ -36,12 +36,6 @@
       "RowTitle": "E",
       "HomeTeamScore": "05"
     }
-     {
-      "id": 5,
-      "AwayTeamScore": "10",
-      "RowTitle": "NEW",
-      "HomeTeamScore": "20"
-    }
   ],
   "button1": ""
 }
